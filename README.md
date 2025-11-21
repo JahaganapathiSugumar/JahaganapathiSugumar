@@ -29,9 +29,6 @@ CNN-based tumor classification with **89% accuracy**, deployed using Flask for r
 ### ☁️ Weather API Platform  
 Full-stack Flask system with hourly & weekly forecasts, maps, and analytics.
 
-### 🍬 Multiplayer Online Game  
-Candy-themed 4-player game built using HTML, CSS, JS, WebSocket, and MySQL.
-
 ---
 
 ## 🏆 Achievements
