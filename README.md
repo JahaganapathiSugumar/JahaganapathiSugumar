@@ -84,7 +84,8 @@ Candy-themed 4-player game built using HTML, CSS, JS, WebSocket, and MySQL.
 ---
 
 ## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=JahaganapathiSugumar&theme=gruvbox)
+![Trophies](https://github-profile-trophy.vercel.app/?username=JahaganapathiSugumar&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+
 
 ---
 
